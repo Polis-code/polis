@@ -1,1 +1,2 @@
 Hello World 
+ Tani jemi duke punuar ne Git
